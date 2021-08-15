@@ -14,5 +14,6 @@ public class PerTest {
         System.out.println("hello git!");
         System.out.println("hot-fix git! test!");
         System.out.println("hello git master!");
+        System.out.println("---push---");
     }
 }
