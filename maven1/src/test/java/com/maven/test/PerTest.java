@@ -16,5 +16,6 @@ public class PerTest {
         System.out.println("hello git master!");
         System.out.println("---push---");
         System.out.println("---pull---");
+        System.out.println("---github&gitee---");
     }
 }
