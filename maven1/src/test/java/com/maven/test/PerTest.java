@@ -11,5 +11,6 @@ public class PerTest {
         //Person person = new Person();
         Person person = (Person) app.getBean("person1");
         person.show();
+        System.out.println("hello git!");
     }
 }
