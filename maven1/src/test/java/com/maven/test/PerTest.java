@@ -12,5 +12,6 @@ public class PerTest {
         Person person = (Person) app.getBean("person1");
         person.show();
         System.out.println("hello git!");
+        System.out.println("hot-fix git!");
     }
 }
